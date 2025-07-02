@@ -1,4 +1,4 @@
-# S(ssh)A(nsible)
+# S(sh)A(nsible)
 
 A tool for quickly connecting to hosts based on ssh inventory
 
